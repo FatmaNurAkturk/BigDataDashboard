@@ -1,0 +1,277 @@
+﻿@model List<BigDataProject.DAL.Entities.PLATES>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Big Data Project</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="">
+    <meta name="author" content="Phoenixcoded" />
+    <link rel="icon" href="~/template/assets/images/favicon.ico" type="image/x-icon">
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/template/assets/css/style.css">
+
+</head>
+<body class="">
+    <!-- [ Pre-loader ] start -->
+    <div class="loader-bg">
+        <div class="loader-track">
+            <div class="loader-fill"></div>
+        </div>
+    </div>
+    <!-- [ Pre-loader ] End -->
+    <!-- [ navigation menu ] start -->
+    <nav class="pcoded-navbar  ">
+        <div class="navbar-wrapper  ">
+            <div class="navbar-content scroll-div ">
+
+
+
+                <ul class="nav pcoded-inner-navbar ">
+                    <li class="nav-item pcoded-menu-caption">
+                        <label>Navigation</label>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/Default/Index/" class="nav-link "><span class="pcoded-micon"><i class="feather icon-home"></i></span><span class="pcoded-mtext">Dapper</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/AdoNet/Index/" class="nav-link "><span class="pcoded-micon"><i class="feather icon-home"></i></span><span class="pcoded-mtext">Ado.Net</span></a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+    <!-- [ navigation menu ] end -->
+    <!-- [ Header ] start -->
+    <header class="navbar pcoded-header navbar-expand-lg navbar-light header-dark">
+
+
+        <div class="m-header">
+            <a class="mobile-menu" id="mobile-collapse" href="#!"><span></span></a>
+            <a href="#!" class="b-brand">
+                <!-- ========   change your logo hear   ============ -->
+                <img src="/template/assets/images/logo.png" alt="" class="logo">
+                <img src="/template/assets/images/logo-icon.png" alt="" class="logo-thumb">
+            </a>
+            <a href="#!" class="mob-toggler">
+                <i class="feather icon-more-vertical"></i>
+            </a>
+        </div>
+    </header>
+
+
+
+
+    <!-- [ Main Content ] start -->
+    <div class="pcoded-main-container">
+        <div class="pcoded-content">
+            <!-- [ breadcrumb ] start -->
+            <div class="page-header">
+                <div class="page-block">
+                    <div class="row align-items-center">
+                        <div class="col-md-12">
+                            <div class="page-header-title">
+                                <h5 class="m-b-10">İstatistikler</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- [ breadcrumb ] end -->
+            <!-- [ Main Content ] start -->
+            <div class="row">
+                <!-- table card-1 start -->
+                <div class="col-md-12 col-xl-6">
+                    <div class="card flat-card">
+                        <div class="row-table">
+                            <div class="col-sm-6 card-body br">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-eye text-c-green mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.brandCount</h5>
+                                        <span>Toplam Marka Sayısı</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 card-body">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <i class="icon feather icon-music text-c-red mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-9 text-md-center">
+                                        <h5>@ViewBag.year</h5>
+                                        <span>En Çok Araba Bulunan YIL</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row-table">
+                            <div class="col-sm-6 card-body br">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <i class="icon feather icon-file-text text-c-blue mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-9 text-md-center">
+                                        <h5>@ViewBag.CaseType</h5>
+                                        <span>En Çok Bulunan Kasa Tipi</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 card-body">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-mail text-c-yellow mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.Color</h5>
+                                        <span>En Fazla Bulunan Renk</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- table card-1 end -->
+                <!-- table card-2 start -->
+                <div class="col-md-12 col-xl-6">
+                    <div class="card flat-card">
+
+                        <div class="row-table">
+                            <div class="col-sm-6 card-body br">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-file-text text-c-blue mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.diesel</h5>
+                                        <span>Dizel Araba Sayısı</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 card-body">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-mail text-c-yellow mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.petrol</h5>
+                                        <span>Benzinli Araba Sayısı</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row-table">
+                            <div class="col-sm-6 card-body br">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-rotate-ccw text-c-blue mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.brand</h5>
+                                        <span>En Fazla Olan Marka</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 card-body">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-shopping-cart text-c-blue mb-1 d-blockz"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.model</h5>
+                                        <span>En Fazla Olan Model</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- table card-2 end -->
+                <!-- Widget primary-success card start -->
+            </div>
+        </div>
+        <div class="container">
+            <form method="post" id="formsearch">
+                <div class="row">
+                    <div class="col-md-12 col-xl-8">
+                        <input type="text" class="form-control" name="carName" placeholder="Araç Markası Girin" />
+                    </div>
+                    <div class="col-md-12 col-xl-4">
+                        <button type="submit" class="btn btn-info">Ara</button>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+        <br />
+        <div class="container" id="">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Plaka</th>
+                        <th>Araç</th>
+                        <th>Marka</th>
+                        <th>Model</th>
+                        <th>Renk</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <var searchResultTable=document.getElementById("searchResult").getElementsByTagName("tbody")[0];
+                         searchResultTable.innerHTML="" ;
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+    <script>
+        document.getElementById("formsearch").addEventListener("submit", function (event) {
+            event.preventDefault();
+
+            var carName = document.getElementsByName("carName")[0].value;
+
+            fetch(`/Default/Search?carName=${encodeURIComponent(carName)}`)
+                .then(response => response.json())
+                .then(data => {
+                    var searchResultTable = document.getElementById("searchResult").getElementsByTagName("tbody")[0];
+                    searchResultTable.innerHTML = "";
+                    data.forEach(item => {
+                        var row = searchResultTable.insertRow();
+                        row.insertCell().innerText = item.id;
+                        row.insertCell().innerText = item.plate;
+                        row.insertCell().innerText = item.title;
+                        row.insertCell().innerText = item.brand;
+                        row.insertCell().innerText = item.model;
+                        row.insertCell().innerText = item.color;
+                    });
+                });
+        });
+    </script>
+
+
+    <!-- Required Js -->
+    <script src="/template/assets/js/vendor-all.min.js"></script>
+    <script src="/template/assets/js/plugins/bootstrap.min.js"></script>
+    <script src="/template/assets/js/pcoded.min.js"></script>
+
+    <!-- Apex Chart -->
+    <script src="/template/assets/js/plugins/apexcharts.min.js"></script>
+
+
+    <!-- custom-chart js -->
+    <script src="/template/assets/js/pages/dashboard-main.js"></script>
+</body>
+
+</html>
+

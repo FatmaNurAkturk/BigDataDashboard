@@ -1,0 +1,1125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BigDataProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BigDataProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\css\\layout-dark.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\layout-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\css\\layout-rtl.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\layout-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\css\\plugins\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\plugins\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\css\\plugins\\prism-coy.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\plugins\\prism-coy.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\feather.eot",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\feather.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\pct.eot",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\pct.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\pct.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\pct.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\pct.ttf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\pct.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\fonts\\pct.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\pct.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\auth\\auth-logo-dark.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\auth\\auth-logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\auth\\auth-logo.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\auth\\auth-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\auth\\img-auth-big.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\auth\\img-auth-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\browser\\chrome.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\browser\\chrome.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\browser\\firefox.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\browser\\firefox.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\browser\\ie.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\browser\\ie.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\browser\\opera.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\browser\\opera.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\browser\\safari.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\browser\\safari.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\cd-arrow.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\cd-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\complete.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\complete.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\masonry-1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\masonry-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\masonry-2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\masonry-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\masonry-3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\masonry-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\masonry-4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\masonry-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\masonry-5.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\masonry-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\masonry-6.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\masonry-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\masonry-7.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\masonry-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\gallery-grid\\masonry-8.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\gallery-grid\\masonry-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\hover-effect\\triangle.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\hover-effect\\triangle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\hover-effect\\triangle2.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\hover-effect\\triangle2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\l1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\l2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\l3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\l4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\l5.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\l6.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\l6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\mixin.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\mixin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\sl1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\sl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\sl2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\sl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\sl3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\sl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\sl4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\sl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\sl5.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\sl5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\sl6.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\sl6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\smixin.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\smixin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\v1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\v2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\v3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\light-box\\v4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\light-box\\v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\logo-docs.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\logo-docs.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\logo-old.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\logo-old.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\logo-thumb.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\logo-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\maintance\\404.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\maintance\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\maintance\\maintance.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\maintance\\maintance.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\maintance\\sark.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\maintance\\sark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\maintance\\ship.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\maintance\\ship.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\maintance\\sparcle-1.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\maintance\\sparcle-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\maintance\\sparcle-2.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\maintance\\sparcle-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\product\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\product\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\profile\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\profile\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\profile\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\profile\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\profile\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\profile\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\profile\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\profile\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\profile\\cover.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\profile\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\slider\\img-slide-1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\slider\\img-slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\slider\\img-slide-2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\slider\\img-slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\slider\\img-slide-3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\slider\\img-slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\slider\\img-slide-4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\slider\\img-slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\slider\\img-slide-5.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\slider\\img-slide-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\slider\\img-slide-6.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\slider\\img-slide-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\slider\\img-slide-7.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\slider\\img-slide-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\ticket\\p1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\ticket\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\ticket\\p2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\ticket\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\ticket\\p3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\ticket\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\ticket\\p4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\ticket\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\ticket\\p5.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\ticket\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\user\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\user\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\user\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\user\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\user\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\user\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\user\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\user\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\user\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\user\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\user\\cover.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\user\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\user\\img-avatar-1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\user\\img-avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\user\\img-avatar-2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\user\\img-avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\user\\img-avatar-3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\user\\img-avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\AUSTRALIA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\BRAZIL.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\BRAZIL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\GERMANY.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\GERMANY.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\PHONE1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\PHONE1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\PHONE2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\PHONE2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\PHONE3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\PHONE3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\PHONE4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\PHONE4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\UK.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\UK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\USA.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\USA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\blur-bg.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\dashborad-1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\dashborad-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\dashborad-2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\dashborad-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\dashborad-3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\dashborad-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\dashborad-4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\dashborad-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\dashborad-5.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\dashborad-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\emoticon.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\emoticon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\img-round1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\img-round1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\p1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\p2.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\p3.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\p4.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\profile-person1.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\profile-person1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\slider5.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\slider6.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\slider6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\slider7.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\slider7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\user-blur-bg.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\user-blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\wather2bottom.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\wather2bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\watherbottom.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\watherbottom.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\wathernature.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\wathernature.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\watherstar1.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\watherstar1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\images\\widget\\watherstar2.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\widget\\watherstar2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\analytics.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\analytics.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\analytics.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\horizontal-menu.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\horizontal-menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\pages\\chart-apex.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\pages\\chart-apex.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\pages\\dashboard-main.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\pages\\dashboard-main.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\pages\\google-maps.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\pages\\google-maps.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\pcoded.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\pcoded.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\plugins\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\plugins\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\plugins\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\plugins\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\plugins\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\plugins\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\plugins\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\plugins\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\plugins\\prism.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\plugins\\prism.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\uikit.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\uikit.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\vendor-all.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\vendor-all.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\js\\vendor-all.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\vendor-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\json\\2500.txt",
+      "PackagePath": "staticwebassets\\template\\assets\\json\\2500.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\json\\cities.json",
+      "PackagePath": "staticwebassets\\template\\assets\\json\\cities.json"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\json\\citynames.json",
+      "PackagePath": "staticwebassets\\template\\assets\\json\\citynames.json"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\assets\\json\\file-upload.php",
+      "PackagePath": "staticwebassets\\template\\assets\\json\\file-upload.php"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\auth-signin.html",
+      "PackagePath": "staticwebassets\\template\\auth-signin.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\auth-signup.html",
+      "PackagePath": "staticwebassets\\template\\auth-signup.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_alert.html",
+      "PackagePath": "staticwebassets\\template\\bc_alert.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_badges.html",
+      "PackagePath": "staticwebassets\\template\\bc_badges.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_breadcrumb-pagination.html",
+      "PackagePath": "staticwebassets\\template\\bc_breadcrumb-pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_button.html",
+      "PackagePath": "staticwebassets\\template\\bc_button.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_card.html",
+      "PackagePath": "staticwebassets\\template\\bc_card.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_carousel.html",
+      "PackagePath": "staticwebassets\\template\\bc_carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_collapse.html",
+      "PackagePath": "staticwebassets\\template\\bc_collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_extra.html",
+      "PackagePath": "staticwebassets\\template\\bc_extra.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_grid.html",
+      "PackagePath": "staticwebassets\\template\\bc_grid.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_modal.html",
+      "PackagePath": "staticwebassets\\template\\bc_modal.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_progress.html",
+      "PackagePath": "staticwebassets\\template\\bc_progress.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_spinner.html",
+      "PackagePath": "staticwebassets\\template\\bc_spinner.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_tabs.html",
+      "PackagePath": "staticwebassets\\template\\bc_tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_toasts.html",
+      "PackagePath": "staticwebassets\\template\\bc_toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_tooltip-popover.html",
+      "PackagePath": "staticwebassets\\template\\bc_tooltip-popover.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\bc_typography.html",
+      "PackagePath": "staticwebassets\\template\\bc_typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\chart-apex.html",
+      "PackagePath": "staticwebassets\\template\\chart-apex.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\form_elements.html",
+      "PackagePath": "staticwebassets\\template\\form_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\index.html",
+      "PackagePath": "staticwebassets\\template\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\layout-horizontal.html",
+      "PackagePath": "staticwebassets\\template\\layout-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\layout-vertical.html",
+      "PackagePath": "staticwebassets\\template\\layout-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\map-google.html",
+      "PackagePath": "staticwebassets\\template\\map-google.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\sample-page.html",
+      "PackagePath": "staticwebassets\\template\\sample-page.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\BigDataProject\\BigDataProject\\wwwroot\\template\\tbl_bootstrap.html",
+      "PackagePath": "staticwebassets\\template\\tbl_bootstrap.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BigDataProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BigDataProject.props",
+      "PackagePath": "build\\BigDataProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BigDataProject.props",
+      "PackagePath": "buildMultiTargeting\\BigDataProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BigDataProject.props",
+      "PackagePath": "buildTransitive\\BigDataProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
